@@ -1,10 +1,10 @@
 # Awesome Cupcake
 #### Unicorn Factory
 
-*This text will be italic*
-_This will also be italic_
+*Very Important Info*
+_VERY IMPORTANT_
 
-**This text will be bold**
+**This is an awesome cupcake**
 __This will also be bold__
 
 _You **can** combine them_
