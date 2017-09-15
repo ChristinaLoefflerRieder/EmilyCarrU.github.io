@@ -1,5 +1,5 @@
-#Awesome Cupcake
-####Unicorn Factory
+# Awesome Cupcake
+#### Unicorn Factory
 
 *This text will be italic*
 _This will also be italic_
@@ -17,14 +17,14 @@ As _**Kanye West**_ said:
 (https://truffle-assets.imgix.net/pxqrocxwsjcc_6OcJeUMaWIYOmKgsK6IwWc_galaxy-cupcakes_squareThumbnail_en-US.jpeg)
 
 
-#Attributes
+# Attributes
 * Teal
 	* and Purple
 * Delicious
 * Sparkly
 	* with stars
 
-####Best Places to Eat This Cupcake
+#### Best Places to Eat This Cupcake
 1. [At the Beach](http://covapp.vancouver.ca/parkfinder/parkdetail.aspx?inparkid=207)
 1.  [At the Park](http://vancouver.ca/parks-recreation-culture/stanley-park.aspx)
 1. [In an Airplane](http://www.imdb.com/title/tt0417148/)
