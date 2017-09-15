@@ -13,8 +13,7 @@ As _**Kanye West**_ said:
 > We're living the future so
 > the present is our past.
 
-![Cupcake]
-(https://truffle-assets.imgix.net/pxqrocxwsjcc_6OcJeUMaWIYOmKgsK6IwWc_galaxy-cupcakes_squareThumbnail_en-US.jpeg)
+![Cupcake](https://truffle-assets.imgix.net/pxqrocxwsjcc_6OcJeUMaWIYOmKgsK6IwWc_galaxy-cupcakes_squareThumbnail_en-US.jpeg)
 
 
 # Attributes
